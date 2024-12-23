@@ -3,7 +3,6 @@ import Chair from './heroBlock-img/Chair.png';
 
 function HeroBlocks() {
     return (
-        <div>
             <div className="hero-blocks">
                 <section className="container">
                     <div className="top-content">
@@ -19,7 +18,6 @@ function HeroBlocks() {
                     </div>
                 </section>
             </div>
-        </div>
     );
 }
 
