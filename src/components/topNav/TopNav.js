@@ -14,8 +14,8 @@ function TopNav() {
                     <h1 className="logo">Avion</h1>
                 </div>
                 <div className="navbar-right">
-                    <a href="#" className="icon cart-icon"><img src={Shoping} alt=""/></a>
-                    <a href="#" className="icon account-icon"><img src={User} alt=""/></a>
+                    <a href="#" className="cart-icon"><img src={Shoping} alt=""/></a>
+                    <a href="#" className="user-icon"><img src={User} alt=""/></a>
                 </div>
             </header>
             <nav className="nav-links">
