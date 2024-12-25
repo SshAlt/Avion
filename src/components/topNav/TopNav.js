@@ -1,5 +1,5 @@
 import './TopNav.css';
-import Seach from './topNav-img/Search.svg';
+import Search from './topNav-img/Search.svg';
 import Shoping from './topNav-img/Shoping-cart.svg';
 import User from './topNav-img/User.svg';
 
@@ -8,7 +8,7 @@ function TopNav() {
         <div>
             <header className="navbar">
                 <div className="navbar-left">
-                    <a href="#" className="icon search-icon"><img src={Seach} alt=""/></a>
+                    <a href="#" className="icon search-icon"><img src={Search} alt=""/></a>
                 </div>
                 <div className="navbar-center">
                     <h1 className="logo">Avion</h1>

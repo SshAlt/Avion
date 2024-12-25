@@ -7,7 +7,7 @@ import Button from "../button/Button";
 function SecondListing() {
     return (
         <div>
-            <h1>Our popular products</h1>
+            <h1 className="sub-title">Our popular products</h1>
             <div className="popular">
                 <div className="products">
                     <img src={Sofa} alt="Sofa"/>

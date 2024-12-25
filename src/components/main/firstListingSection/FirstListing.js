@@ -8,7 +8,7 @@ import Button from "../button/Button";
 function FirstListing() {
     return (
         <div>
-            <h1>New ceramics</h1>
+            <h1 className="new">New ceramics</h1>
             <div className="ceramics">
                 <div className="listing-block">
                     <img src={Chair} alt="DandyChair"/>
