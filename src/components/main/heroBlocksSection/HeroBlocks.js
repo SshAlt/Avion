@@ -1,4 +1,4 @@
-import './HeroBlocks.css';
+import './HeroBlocks.sass';
 import Chair from './heroBlock-img/Chair.png';
 
 function HeroBlocks() {

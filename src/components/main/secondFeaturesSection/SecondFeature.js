@@ -1,4 +1,4 @@
-import "./SecondFeature.css";
+import "./SecondFeature.sass";
 import Interior from "./secondFeature-img/Interior.png";
 
 function SecondFeature() {

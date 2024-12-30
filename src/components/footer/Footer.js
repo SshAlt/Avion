@@ -1,4 +1,4 @@
-import "./Footer.css";
+import "./Footer.sass";
 import LinkedIn from './footer-img/LinkedIn.svg';
 import Facebook from './footer-img/Facebook.svg';
 import Twitter from './footer-img/Twitter.svg';

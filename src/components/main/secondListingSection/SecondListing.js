@@ -1,4 +1,4 @@
-import "./SecondListing.css"
+import "./SecondListing.sass"
 import Sofa from "./secondListing-img/Sofa.png"
 import Chair1 from "./secondListing-img/Chair1.png"
 import Chair2 from "./secondListing-img/Chair2.png"

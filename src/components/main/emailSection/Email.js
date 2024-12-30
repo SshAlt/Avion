@@ -1,4 +1,4 @@
-import "./Email.css"
+import "./Email.sass"
 
 function Email() {
     return (

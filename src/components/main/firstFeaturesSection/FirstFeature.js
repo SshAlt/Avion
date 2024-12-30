@@ -1,4 +1,4 @@
-import './FirstFeature.css';
+import './FirstFeature.sass';
 import Delivery from './firstFeature-img/Delivery.svg';
 import Verify from './firstFeature-img/Veryfied.svg';
 import Card from './firstFeature-img/Card.svg';

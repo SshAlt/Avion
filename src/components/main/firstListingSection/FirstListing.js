@@ -1,4 +1,4 @@
-import "./FirstListing.css";
+import "./FirstListing.sass";
 import Chair from "./firstListing-img/DandyChair.png";
 import VaseSet from "./firstListing-img/VaseSet.png";
 import Vase from "./firstListing-img/Vase.png";

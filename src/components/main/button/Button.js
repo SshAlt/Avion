@@ -1,4 +1,4 @@
-import "./Button.css"
+import "./Button.sass"
 
 function Button() {
     return (

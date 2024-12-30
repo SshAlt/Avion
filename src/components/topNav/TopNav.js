@@ -1,4 +1,4 @@
-import './TopNav.css';
+import './TopNav.sass';
 import Search from './topNav-img/Search.svg';
 import Shoping from './topNav-img/Shoping-cart.svg';
 import User from './topNav-img/User.svg';
